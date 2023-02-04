@@ -17,6 +17,22 @@ Does:1.static checking  analysze the code as we type thats it.
      5.stand alone language
 
 __________-INSTALLL TYPEsCRIPT-_____________
+npm i -g ts-node---Then--npm i -g typescript GLOBAL
+npm i typescript in VSCODE
 
 
+how to convert js into ts--tsc <name>.ts
+  -----TYPES----------
+
+NUMBER BOOLEAN UNDEFINED OBJECT NEVER    ANY
+STRING   NULL     VOID    ARRAY TUPLES  UNKNOW
+
+--------------SITUATIONS-------------
+1.a function accepts 2 numbers
+2.functions returns a string
+
+---------------SYNTAx-----------
+let a:type=value
+all its lowercase
+Ex:
 
