@@ -1,0 +1,22 @@
+TYPESCRIPT
+---------------
+type script super version of javascript
+much more powerful and presize code
+
+
+ -------------TYPE SAFTEY---------
+2+'2'=22 js
+
+
+
+TYPESCRIPT-
+Does:1.static checking  analysze the code as we type thats it.
+     2.more code than js
+     3.its is devalopment tool but runs in javascript
+     4.better code 
+     5.stand alone language
+
+__________-INSTALLL TYPEsCRIPT-_____________
+
+
+
