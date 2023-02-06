@@ -36,3 +36,34 @@ let a:type=value
 all its lowercase
 Ex:
 
+
+
+
+install some packages
+
+tsc --init ==> itsb creates typescript Config file
+npm init -y ==>its genarates package.json
+we have to create two folders 1.SRC  -> its ts file
+                              2.DIST -> when create ts its automaticaly denarates js file this folder
+
+if we want see changes in tsc file while running 
+__________tsc -w ______________
+
+install lite server ===>  npm i lite-server
+
+
+if u want run typescript through live server 
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  its default scipt given by packge.json
+
+
+  we have to run through lite-server
+  install lite server and use this script
+  "scripts": {
+    "start": "live-server"
+  },
+
+
