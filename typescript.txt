@@ -56,6 +56,7 @@ if u want run typescript through live server
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  start the script with command "OPEN WITH LIVE SERVER" 
 
   its default scipt given by packge.json
 
@@ -63,7 +64,9 @@ if u want run typescript through live server
   we have to run through lite-server
   install lite server and use this script
   "scripts": {
-    "start": "live-server"
+    "start": "lite-server"
   },
+
+  start the script with command "NPM START" IN LITE SERVER ONLY
 
 
