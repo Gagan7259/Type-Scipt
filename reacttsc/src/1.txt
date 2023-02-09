@@ -1,0 +1,22 @@
+/* let name: string;
+name = "manoj";
+let age: number | string;
+let IsStudent: boolean;
+let Hobbies: string[]; //Array
+let role: [number, string]; */ ///TUPLES
+
+/* role = [2, "sg"];
+ */
+
+/* type Person = {
+  name: string;
+  age?: number; ///   ? itb means its Optional
+}; */
+
+/* let person: Person = {
+  name: "Gagan",
+  //age: 22,
+}; */
+
+/* let LotsOfPeople: Person[];
+ */
